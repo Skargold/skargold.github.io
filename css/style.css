@@ -1,3 +1,9 @@
+@font-face{
+font-family: 'Lobster';
+src: url('../font/LobsterTwo-BoldItalic.otf');
+}
+
+
 .body{
 	
 	margin: 0;
